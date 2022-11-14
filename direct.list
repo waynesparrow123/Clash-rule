@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
 IP-CIDR,210.149.135.115/24
 DOMAIN-SUFFIX,dl.playstation.net
 
-SRC-IP-CIDR,192.168.5.218/24
+
 SRC-IP-CIDR,198.18.0.1/24
 
 IP-CIDR,50.7.252.138/24
