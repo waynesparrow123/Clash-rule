@@ -1,1 +1,4 @@
 DOMAIN-SUFFIX,rockstargames.com
+PROCESS-NAME,RainbowSix.exe
+PROCESS-NAME,RainbowSix_BE.exe
+PROCESS-NAME,RainbowSix_Vulkan.exe
