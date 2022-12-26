@@ -1,3 +1,4 @@
+## Rainbow Six Siege
 PROCESS-NAME,BEService_x64.exe
 PROCESS-NAME,Cleaner.exe
 PROCESS-NAME,FirewallInstall.exe
@@ -6,6 +7,17 @@ PROCESS-NAME,RainbowSix.exe
 PROCESS-NAME,RainbowSix_BE.exe
 PROCESS-NAME,RainbowSix_Vulka.exe
 
+DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net
+DOMAIN-SUFFIX,public-ubiservices.ubi.com
+DOMAIN-SUFFIX,r6s1.battleye.com
+DOMAIN-SUFFIX,overlay.cdn.ubisoft.com
+DOMAIN-SUFFIX,public-ws-ubiservices.ubi.com
+DOMAIN-SUFFIX,msr-public-ubiservices.ubi.com
+DOMAIN-SUFFIX,public-im-ubiservices.ubi.com
+DOMAIN-SUFFIX,lb-rdv-siege-xplay-multiaz-prod.ubisoft.com
+DOMAIN-SUFFIX,d27xxe7juh1us6.cloudfront.net
+
+## GTAV
 DOMAIN-SUFFIX,rockstargames.com
 PROCESS-NAME,Rockstar-Games-Launcher.exe
 PROCESS-NAME,Social-Club-Setup.exe
