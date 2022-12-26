@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,msr-public-ubiservices.ubi.com
 DOMAIN-SUFFIX,public-im-ubiservices.ubi.com
 DOMAIN-SUFFIX,lb-rdv-siege-xplay-multiaz-prod.ubisoft.com
 DOMAIN-SUFFIX,d27xxe7juh1us6.cloudfront.net
+DOMAIN-SUFFIX,ubisoft-avatars.akamaized.net
+
+
 
 ## GTAV
 DOMAIN-SUFFIX,rockstargames.com
