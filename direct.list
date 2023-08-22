@@ -11,11 +11,13 @@ DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,eft-store.com
 DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,myqnapcloud.cn
 
 DOMAIN-KEYWORD,weishi.space
 DOMAIN-KEYWORD,cmdw
 DOMAIN-KEYWORD,oddba
 DOMAIN-KEYWORD,parsec
+
 
 IP-CIDR,20.222.153.171/24
 IP-CIDR,20.205.101.201/24
