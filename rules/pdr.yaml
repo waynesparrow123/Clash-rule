@@ -1,0 +1,14 @@
+payload:
+  - RULE-SET,Qualtrics
+  - DOMAIN-SUFFIX,forstasurveys.zendesk.com
+  - DOMAIN-KEYWORD,focusvision
+  - DOMAIN-KEYWORD,workflowmax
+  - DOMAIN-KEYWORD,zendesk
+  - DOMAIN-KEYWORD,forstasurveys
+  - DOMAIN-KEYWORD,displayr
+  - DOMAIN-KEYWORD,wetransfer
+  - DOMAIN-SUFFIX,wetransfer.com
+  - DOMAIN-SUFFIX,monday.com
+  - DOMAIN-KEYWORD,realeye
+  - DOMAIN-SUFFIX,box.com
+  - DOMAIN-SUFFIX,graph.microsoft.com
