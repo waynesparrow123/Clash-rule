@@ -11,3 +11,8 @@ payload:
   - DOMAIN-KEYWORD,realeye
   - DOMAIN-SUFFIX,box.com
   - DOMAIN-SUFFIX,graph.microsoft.com
+  - DOMAIN-KEYWORD,qualtrics
+  - DOMAIN,qualtrics.com
+  - DOMAIN-SUFFIX,qualtrics.com
+  - DOMAIN,feedback.fctg.travel
+  - DOMAIN-SUFFIX,fctg.travel
