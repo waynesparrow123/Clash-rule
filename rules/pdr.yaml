@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN,feedback.fctg.travel
   - DOMAIN-SUFFIX,fctg.travel
+  - DOMAIN-KEYWORD,surveyfiles
