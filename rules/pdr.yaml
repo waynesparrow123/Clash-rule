@@ -1,21 +1,21 @@
 payload:
   - DOMAIN-SUFFIX,forstasurveys.zendesk.com
+  - DOMAIN-SUFFIX,wetransfer.com
+  - DOMAIN-SUFFIX,monday.com
+  - DOMAIN-SUFFIX,box.com
+  - DOMAIN-SUFFIX,graph.microsoft.com
+  - DOMAIN-SUFFIX,onlinesurvey.site
+  - DOMAIN-SUFFIX,fctg.travel
+  
   - DOMAIN-KEYWORD,focusvision
   - DOMAIN-KEYWORD,workflowmax
   - DOMAIN-KEYWORD,zendesk
   - DOMAIN-KEYWORD,forstasurveys
   - DOMAIN-KEYWORD,displayr
   - DOMAIN-KEYWORD,wetransfer
-  - DOMAIN-SUFFIX,wetransfer.com
-  - DOMAIN-SUFFIX,monday.com
   - DOMAIN-KEYWORD,realeye
-  - DOMAIN-SUFFIX,box.com
-  - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-KEYWORD,qualtrics
-  - DOMAIN,qualtrics.com
-  - DOMAIN-SUFFIX,qualtrics.com
-  - DOMAIN,feedback.fctg.travel
-  - DOMAIN-SUFFIX,fctg.travel
   - DOMAIN-KEYWORD,surveyfiles
-  - DOMAIN-SUFFIX,onlinesurvey.site
   - DOMAIN-KEYWORD,miro
+  - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-KEYWORD,paralleldata
