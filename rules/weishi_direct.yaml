@@ -16,3 +16,5 @@ payload:
   - DOMAIN-KEYWORD,weishi
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,vpnasia.behaviorally.com
+
+  - DOMAIN-SUFFIX,qq.com
