@@ -9,8 +9,6 @@ payload:
   - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,dl.playstation.net
   - DOMAIN-SUFFIX,eft-store.com
-  - DOMAIN-SUFFIX,cebbank.com
-  - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,myqnapcloud.cn
   - DOMAIN-KEYWORD,cmdw
   - DOMAIN-KEYWORD,oddba
