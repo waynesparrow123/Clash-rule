@@ -19,3 +19,5 @@ payload:
   - DOMAIN-KEYWORD,miro
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,paralleldata
+  
+  - PROCESS-NAME,WinSCP.exe
