@@ -22,5 +22,6 @@ payload:
   - DOMAIN-KEYWORD,onlinesurvey
   - DOMAIN-KEYWORD,gladys
   - DOMAIN-KEYWORD,paralleldata
+  - DOMAIN-KEYWORD,notion
   
   - PROCESS-NAME,WinSCP.exe
