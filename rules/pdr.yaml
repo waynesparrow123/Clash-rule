@@ -23,5 +23,6 @@ payload:
   - DOMAIN-KEYWORD,gladys
   - DOMAIN-KEYWORD,paralleldata
   - DOMAIN-KEYWORD,notion
+  - DOMAIN-KEYWORD,npmmirror
   
   - PROCESS-NAME,WinSCP.exe
