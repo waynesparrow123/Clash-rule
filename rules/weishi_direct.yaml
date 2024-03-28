@@ -17,6 +17,11 @@ payload:
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,vpnasia.behaviorally.com
 
+
+  - DOMAIN-SUFFIX,cdn.steamstatic.com
+
+
+
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,myddns.rocks
