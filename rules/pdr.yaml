@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,onlinesurvey.site
   - DOMAIN-SUFFIX,fctg.travel
+  - DOMAIN-SUFFIX,translate.google.com
   
   - DOMAIN-KEYWORD,focusvision
   - DOMAIN-KEYWORD,workflowmax
@@ -26,6 +27,5 @@ payload:
   - DOMAIN-KEYWORD,npmmirror
   - DOMAIN-KEYWORD,decipherinc
   - DOMAIN-KEYWORD,gladybehaviorally
-  - DOMAIN-KEYWORD,google
   
   - PROCESS-NAME,WinSCP.exe
