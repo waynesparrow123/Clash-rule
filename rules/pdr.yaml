@@ -26,5 +26,6 @@ payload:
   - DOMAIN-KEYWORD,npmmirror
   - DOMAIN-KEYWORD,decipherinc
   - DOMAIN-KEYWORD,gladybehaviorally
+  - DOMAIN-KEYWORD,google
   
   - PROCESS-NAME,WinSCP.exe
