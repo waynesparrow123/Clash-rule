@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,note.ms
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,support.parsec.app
+  - DOMAIN-KEYWORD,sp-tarkov
