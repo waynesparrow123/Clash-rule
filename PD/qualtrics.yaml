@@ -1,7 +1,0 @@
-payload:
-  # 内容：qualtrics
-  - DOMAIN-KEYWORD,qualtrics
-  - DOMAIN,qualtrics.com
-  - DOMAIN-SUFFIX,qualtrics.com
-  - DOMAIN,feedback.fctg.travel
-  - DOMAIN-SUFFIX,feedback.fctg.travel
