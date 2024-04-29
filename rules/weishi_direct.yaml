@@ -6,14 +6,17 @@ payload:
   - DOMAIN-SUFFIX,dl.playstation.net
   - DOMAIN-SUFFIX,eft-store.com
   - DOMAIN-SUFFIX,myqnapcloud.cn
-  
-  - DOMAIN-KEYWORD,weishi
-  - DOMAIN-KEYWORD,cmdw
-  - DOMAIN-KEYWORD,oddba
-  - DOMAIN-KEYWORD,parsec
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,myddns.rocks
   - DOMAIN-SUFFIX,tailscale.com
 
+  
+  - DOMAIN-KEYWORD,cloudflarestorage
+  - DOMAIN-KEYWORD,weishi
+  - DOMAIN-KEYWORD,cmdw
+  - DOMAIN-KEYWORD,oddba
+  - DOMAIN-KEYWORD,parsec
+
+  
   - DOMAIN-SUFFIX,llnwd.net
