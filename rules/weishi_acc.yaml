@@ -1,10 +1,32 @@
 payload:
+
+  # Proxy
   - DOMAIN-SUFFIX,download.synology.com
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,coursera
   - DOMAIN-KEYWORD,busuu
-  - DOMAIN-KEYWORD,miro
   - DOMAIN-SUFFIX,note.ms
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,support.parsec.app
   - DOMAIN-KEYWORD,sp-tarkov
+
+  # VPN
+  - DOMAIN-KEYWORD,the-best-airport
+  - DOMAIN-KEYWORD,myddns
+  - DOMAIN-SUFFIX,edgesrv.lol
+  - DOMAIN-SUFFIX,dsfidx.lol
+  - DOMAIN-SUFFIX,vfwqwd.xyz
+  - DOMAIN-SUFFIX,tokyo-ct.ac.jp
+  - DOMAIN-SUFFIX,docstamper.com
+  - DOMAIN-KEYWORD,weishispace
+  - DOMAIN-SUFFIX,evepww.xyz
+  - DOMAIN-SUFFIX,neko-warp.nloli.xyz
+  - DOMAIN-SUFFIX,app.nloli.xyz
+  - DOMAIN-SUFFIX,bianyuan.xyz
+  - DOMAIN-SUFFIX,gravatar.defe.me
+  - DOMAIN-SUFFIX,weiar.cn
+  - DOMAIN-SUFFIX,e.lvtbt.com
+  - DOMAIN-SUFFIX,www.gamecockdaily.com
+  - DOMAIN-SUFFIX,mail.aggiesdaily.com
+  - DOMAIN-SUFFIX,www.mizzoudaily.com
+  - DOMAIN-SUFFIX,vandydaily.com
