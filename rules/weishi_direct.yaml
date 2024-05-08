@@ -10,6 +10,11 @@ payload:
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,myddns.rocks
   - DOMAIN-SUFFIX,tailscale.com
+  
+  - DOMAIN-SUFFIX,ddns.oray.com
+  - DOMAIN-SUFFIX,4.ipw.cn
+  - DOMAIN-SUFFIX,6.ipw.cn
+  - DOMAIN-SUFFIX,speed.neu6.edu.cn
 
   
   - DOMAIN-KEYWORD,cloudflarestorage
