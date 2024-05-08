@@ -30,5 +30,6 @@ payload:
   - DOMAIN-KEYWORD,gladybehaviorally
   - DOMAIN-KEYWORD,behaviorally
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,docker
   
   - PROCESS-NAME,WinSCP.exe
