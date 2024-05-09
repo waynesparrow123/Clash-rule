@@ -31,5 +31,6 @@ payload:
   - DOMAIN-KEYWORD,behaviorally
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,synology
   
   - PROCESS-NAME,WinSCP.exe
