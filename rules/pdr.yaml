@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,monday.com
   - DOMAIN-SUFFIX,box.com
-  - DOMAIN-SUFFIX,graph.microsoft.com
+  #- DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,fctg.travel
   - DOMAIN-SUFFIX,translate.google.com
   - DOMAIN-SUFFIX,download.synology.com
