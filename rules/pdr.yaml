@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,api.codelife.cc
   - DOMAIN-SUFFIX,voxpopme.com
   - DOMAIN-SUFFIX,tencentcloud.com
+  - DOMAIN-SUFFIX,trtc.io
   
   - DOMAIN-KEYWORD,focusvision
   - DOMAIN-KEYWORD,workflowmax
