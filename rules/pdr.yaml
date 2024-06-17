@@ -37,5 +37,6 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,voxpopme
   
   - PROCESS-NAME,WinSCP.exe
