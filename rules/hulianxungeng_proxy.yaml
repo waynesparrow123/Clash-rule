@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,bcsintl.com
   - DOMAIN-SUFFIX,onlineguardpatrol.com
   - DOMAIN-SUFFIX,ogpcloud.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,google
