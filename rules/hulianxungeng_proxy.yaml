@@ -6,3 +6,6 @@ payload:
   - IP-CIDR,47.243.202.135/32
   - IP-CIDR,47.242.19.113/32
   - IP-CIDR,47.254.195.68/32
+  - DOMAIN-SUFFIX,tourtrax.ca
+  - DOMAIN-SUFFIX,bcsintl.com
+  - DOMAIN-SUFFIX,onlineguardpatrol.com
