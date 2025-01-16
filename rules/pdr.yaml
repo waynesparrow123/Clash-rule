@@ -40,6 +40,5 @@ payload:
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,voxpopme
   - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,google
   
   - PROCESS-NAME,WinSCP.exe
